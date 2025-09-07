@@ -1,0 +1,9 @@
+/estadisticas
+    /__init__.py
+    /main.py              # Código principal de la aplicación
+    /pruebas.py           # Contiene las clases para las pruebas (medias, varianza, chi-cuadrado)
+    /generadores.py       # Contiene las clases para generar números pseudoaleatorios
+    /interfaz.py          # Código para la interfaz gráfica con Tkinter
+    /graficos.py          # Funciones para mostrar los gráficos
+    /readme.md            # Documento README con detalles del proyecto
+    /requirements.txt     # Librerías necesarias para el proyecto
